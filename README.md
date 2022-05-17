@@ -3,7 +3,7 @@
  This is a cypress test application
 - Clone project from
 ```
--git clone 
+-git clone https://github.com/petermartin2002/nuffield_health.git
 ```
 -Open project in visualcode
 
