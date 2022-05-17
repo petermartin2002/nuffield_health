@@ -1,0 +1,82 @@
+[
+    { 
+      "name": "Glasgow Giffnock",
+      "address1": "82, Braidholm Road",
+      "address2": "Giffnock",
+      "city": "Glasgow",
+      "postcode": "G46 6ED",
+      "phoneNumber": "0141 637 6600"
+    },
+    {
+      "name": "East Kilbride",
+      "address1": "4 The Boardwalk",
+      "address2": "Stroud Road",
+      "city": "East Kilbride",
+      "postcode": "G75 0YW",
+      "phoneNumber": "01355 236601"
+    },
+    {
+      "name": "Liverpool",
+      "address1": "1 Riverside Drive",
+      "address2": "",
+      "city": "Liverpool",
+      "postcode": "L3 4EN",
+      "phoneNumber": "0151 707 6000"
+    },
+    {
+      "name": "Chester",
+      "address1": "Wrexham Road",
+      "address2": "",
+      "city": "Chester",
+      "postcode": "CH4 7QP",
+      "phoneNumber": "01244 689830"
+    },
+    {
+      "name": "Islington",
+      "address1": "27 Essex Road",
+      "address2": "Islington",
+      "city": "London",
+      "postcode": "N1 2SD",
+      "phoneNumber": "0207 288 8200"
+    },
+    {
+      "name": "Bloomsbury",
+      "address1": "Mecklenburgh Place",
+      "address2": "Goodenough College",
+      "city": "London",
+      "postcode": "WC1N 2AY",
+      "phoneNumber": "020 7713 8810"
+    },
+    {
+      "name": "Bridgend",
+      "address1": "Waterton Retail Park",
+      "address2": "Waterton Road",
+      "city": "Bridgend",
+      "postcode": "CF31 3YW",
+      "phoneNumber": "01656 644160"
+    },
+    {
+      "name": "Cwmbran",
+      "address1": "Wilcrick Place",
+      "address2": "Avondale Road",
+      "city": "Cwmbran",
+      "postcode": "NP44 1TX",
+      "phoneNumber": "01633 877822"
+    },
+    {
+      "name": "Edinburgh Omni",
+      "address1": "61/10 Leith Street",
+      "address2": "",
+      "city": "Edinburgh",
+      "postcode": "EH1 3AU",
+      "phoneNumber": "0131 550 1650"
+    },
+    {
+      "name": "Edinburgh Fountain Park",
+      "address1": "Fountain Park, 65-95 Dundee Street",
+      "address2": "Fountainbridge",
+      "city": "Edinburgh",
+      "postcode": "EH11 1AF",
+      "phoneNumber": "0131 221 8000"
+    }
+]

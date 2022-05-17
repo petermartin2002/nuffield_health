@@ -1,0 +1,45 @@
+ Node artifact files
+
+# dependencies
+dist/
+/mochawesome-report
+/node_modules
+/reports
+
+# Applications
+*.app
+*.exe
+!/cypress/fixtures/common/file-uploads/files/*.exe
+*.war
+
+
+# Large media files
+*.mp4
+*.tiff
+*.avi
+*.flv
+*.gif
+!/cypress/fixtures/common/file-uploads/files/*.gif
+*.mov
+*.wmv
+*.png
+
+!/cypress/fixtures/common/file-uploads/files/*.png
+*.jpg
+!/cypress/fixtures/common/file-uploads/files/*.jpg
+*.jpeg
+!/cypress/fixtures/common/file-uploads/files/*.jpeg
+*.log
+
+*.txt
+!/cypress/fixtures/common/file-uploads/files/*.txt
+*.doc
+*.docx
+!/cypress/fixtures/common/file-uploads/files/*.doc*
+*.msg
+!/cypress/fixtures/common/file-uploads/files/*.msg
+*.pdf
+!/cypress/fixtures/common/file-uploads/files/*.pdf
+*.ppt
+*.pptx
+!/cypress/fixtures/common/file-uploads/files/*.ppt*

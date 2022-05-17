@@ -1,0 +1,30 @@
+{
+  "name": "nuffieldhealth",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "openCypess": "cypress open",
+    "runCypress": "cypress run"
+  },
+  "keywords": [],
+  "author": "peter.martin",
+  "license": "ISC",
+  "dependencies": {
+    "cypress": "^9.6.1",
+    "cypress-cucumber-preprocessor": "^4.1.4",
+    "cypress-pipe": "^2.0.0",
+    "fs-extra": "^10.1.0"
+  },
+  "devDependencies": {
+    "cypress-multi-reporters": "^1.6.0",
+    "cypress-wait-until": "^1.7.1",
+    "mocha": "^8.2.1",
+    "mochawesome": "^6.2.1",
+    "mochawesome-merge": "^4.2.0",
+    "mochawesome-report-generator": "^5.1.0"
+  },
+  "cypress-cucumber-preprocessor": {
+    "nonGlobalStepDefinitions": true,
+    "stepDefinitions": "cypress/tests"
+  }
+}

@@ -1,0 +1,10 @@
+{
+    "baseUrl":"https://www.nuffieldhealth.com/gyms",
+    "testFiles": "**/*.feature",
+    "reporter": "cypress-multi-reporters",
+    "reporterOptions": {
+      "configFile": "reporterConfig.js"
+    },
+    "video": false,
+    "integrationFolder": "cypress/tests"
+}
